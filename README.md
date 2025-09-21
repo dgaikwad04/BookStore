@@ -1,6 +1,6 @@
 # BookStore
 📘 Bookstore Pricing Plans
-Live:- https://website-68d01e09d4d65-72862.grwebsite.com/pricing-table
+Live:- https://website-68d01e09d4d65-72862.grwebsite.com/
 
 Welcome to our pricing page! We offer a range of plans tailored for book enthusiasts and authors. Whether you're looking for digital downloads or exclusive pre-orders, we have something for everyone.
 
